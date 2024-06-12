@@ -1,6 +1,6 @@
 # Detection-of-Forest-Fires
 
-𝗙𝗶𝗿𝗲 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼n using Machine Learning Algorithm with python, GoogleColab & database taken from IBM Kaggle
+𝗙𝗶𝗿𝗲 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼n using Machine Learning Algorithm with python, GoogleColab & database taken from IBM Kaggle,Twilio api send message to phone no.
 
 ---
 **Intorduction**
@@ -14,3 +14,21 @@ In forests, fires can be started by humans or by natural causes. Naturally, fire
 **Procedure**
 
 Dataset is taken from [Kaggle](https://www.kaggle.com/datasets/atulyakumar98/test-dataset "Kaggle") 
+
++ Dataset contains image.
++ Image data contains test and train data in image format each having 2 class i.e., forest, fire forest.
++ Test_set has Forest 72 images, test_set has forest fire 49 images.
++ Train_set has Forest 258 images, train_set has 156 images.
++ Tested the pre-played video without fire no alarm,with fire it alarm
++ It alert the surround people phone by sending notification
+---
+**WorkFlow Diagram**
+
+![Screenshot 2024-06-12 213404](https://github.com/xVigneshRajx/Detection-of-Forest-Fires/assets/82560863/c65bcca7-1597-4af0-a895-28f50af72eaa)
+-> Gathering data
+-> Data pre-processing
+-> Researching the model that will be best for the type of data
+-> Training and testing the model
+-> Evaluation
+
+  
