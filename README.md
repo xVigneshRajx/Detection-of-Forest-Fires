@@ -25,10 +25,10 @@ Dataset is taken from [Kaggle](https://www.kaggle.com/datasets/atulyakumar98/tes
 **WorkFlow Diagram**
 
 ![Screenshot 2024-06-12 213404](https://github.com/xVigneshRajx/Detection-of-Forest-Fires/assets/82560863/c65bcca7-1597-4af0-a895-28f50af72eaa)
--> Gathering data
--> Data pre-processing
--> Researching the model that will be best for the type of data
--> Training and testing the model
--> Evaluation
++ Gathering data
++ Data pre-processing
++ Researching the model that will be best for the type of data
++ Training and testing the model
++ Evaluation
 
-  
+# Thank You  
